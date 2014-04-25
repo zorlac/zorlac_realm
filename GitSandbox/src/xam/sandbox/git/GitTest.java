@@ -13,6 +13,9 @@ public class GitTest {
 		System.out.println("Git test");
 		
 		
+		System.out.println("close");
+		
+		
 		
 	}
 
